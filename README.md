@@ -22,3 +22,6 @@ install.packages("DT")
 
 ## Credits
 This R Shiny app was developed by [John Lemuel M. Dalisay](https://www.linkedin.com/in/johnlemueldalisay/) as part of the Co-CiPhil project: Co-Creating Environmental Citizen Science Capacity in the Philippines during the ITP-WS2 Week 2 Lecture by Prof. Thomas Neyens.
+
+## Want to Connect?
+If you're passionate about public health research or have any questions, suggestions, or collaboration ideas related to this project, I'd love to connect with you! Feel free to reach out to me via LinkedIn [https://www.linkedin.com/in/johnlemueldalisay/](https://www.linkedin.com/in/johnlemueldalisay/).
